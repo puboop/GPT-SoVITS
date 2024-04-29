@@ -94,7 +94,7 @@ pip install -r requirements.txt
 ##### Conda Users
 
 ```bash
-conda install ffmpeg
+conda install ffmpeg -y
 ```
 
 ##### Ubuntu/Debian Users
@@ -105,6 +105,8 @@ sudo apt install libsox-dev
 conda install -c conda-forge 'ffmpeg<7'
 ```
 
+##### 使用文档
+https://www.yuque.com/baicaigongchang1145haoyuangong/ib3g1e
 ##### Windows Users
 
 Download and place [ffmpeg.exe](https://huggingface.co/lj1995/VoiceConversionWebUI/blob/main/ffmpeg.exe) and [ffprobe.exe](https://huggingface.co/lj1995/VoiceConversionWebUI/blob/main/ffprobe.exe) in the GPT-SoVITS root.
