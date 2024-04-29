@@ -61,7 +61,7 @@ _Note: The 0306fix2 version doubles the inference speed and fixes all issues wit
 ### Linux
 
 ```bash
-conda create -n GPTSoVits python=3.9
+conda create -n GPTSoVits python=3.9 -y
 conda activate GPTSoVits
 bash install.sh
 ```
