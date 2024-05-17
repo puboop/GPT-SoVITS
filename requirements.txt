@@ -1,3 +1,4 @@
+# 需要c++编译环境 https://visualstudio.microsoft.com/zh-hans/visual-cpp-build-tools/
 numpy
 scipy
 tensorboard
@@ -26,3 +27,7 @@ jieba
 LangSegment>=0.2.0
 Faster_Whisper
 wordsegment
+
+matplotlib==3.5.0  # 防止错误 AttributeError: module 'backend_interagg' has no attribute 'FigureCanvas'
+
+# gpu版本 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
