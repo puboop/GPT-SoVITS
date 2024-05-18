@@ -1,1 +1,1 @@
-GPT_weights/cyc-e50.ckpt
+GPT_weights/zxp-e50.ckpt

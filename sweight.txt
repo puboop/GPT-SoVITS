@@ -1,1 +1,1 @@
-SoVITS_weights/cyc_e20_s200.pth
+SoVITS_weights/zxp_e24_s264.pth

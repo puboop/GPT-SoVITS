@@ -35,5 +35,5 @@ class CoverRadio:
 
 
 if __name__ == '__main__':
-    c = CoverRadio("../data/cyc.mp3")
+    c = CoverRadio("../data/zxp.m4a")
     c.to_wav()

@@ -16,3 +16,11 @@
 达摩院语音团队中文标点模型：https://github.com/alibaba-damo-academy/FunASR
 
 FRCRN语音降噪模型是基于频率循环 CRN (FRCRN) 新框架开发出来的
+
+# 报错
+含有zipfile.BadZipFile: File is not a zip或者LookupError：以及红色 >>> import nltk:
+```text
+#下载 "https://www.icloud.com/iclouddrive/0b9blkIrl2rOabOqyksasY2dQ#nltk_data"
+#文件，解压替换本地nltk_data文件夹，若无此文件夹，放到用户名根目录下~/
+或则在: `依赖/nltk_data.zip`也是有的。
+```
