@@ -1,3 +1,4 @@
+# Python 3.9.19
 # 需要c++编译环境 https://visualstudio.microsoft.com/zh-hans/visual-cpp-build-tools/
 numpy
 scipy
